@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrzayBattle", "CrzayBattle\CrzayBattle.csproj", "{EE4BC997-EAFC-4AB2-A5F1-760ADF13C19A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CrazyBattle", "CrazyBattle\CrazyBattle.vdproj", "{28A9146D-295D-4263-8EBD-3B939DA31405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4BC997-EAFC-4AB2-A5F1-760ADF13C19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4BC997-EAFC-4AB2-A5F1-760ADF13C19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4BC997-EAFC-4AB2-A5F1-760ADF13C19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4BC997-EAFC-4AB2-A5F1-760ADF13C19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A9146D-295D-4263-8EBD-3B939DA31405}.Debug|Any CPU.ActiveCfg = Debug
+		{28A9146D-295D-4263-8EBD-3B939DA31405}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

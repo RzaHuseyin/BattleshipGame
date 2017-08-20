@@ -1,0 +1,8 @@
+c:\users\rza\documents\visual studio 2017\Projects\b_ship\CrzayBattle\bin\Debug\CrzayBattle.exe.config
+c:\users\rza\documents\visual studio 2017\Projects\b_ship\CrzayBattle\bin\Debug\CrzayBattle.exe
+c:\users\rza\documents\visual studio 2017\Projects\b_ship\CrzayBattle\bin\Debug\CrzayBattle.pdb
+c:\users\rza\documents\visual studio 2017\Projects\b_ship\CrzayBattle\obj\Debug\CrzayBattle.Form1.resources
+c:\users\rza\documents\visual studio 2017\Projects\b_ship\CrzayBattle\obj\Debug\CrzayBattle.Properties.Resources.resources
+c:\users\rza\documents\visual studio 2017\Projects\b_ship\CrzayBattle\obj\Debug\CrzayBattle.csproj.GenerateResource.Cache
+c:\users\rza\documents\visual studio 2017\Projects\b_ship\CrzayBattle\obj\Debug\CrzayBattle.exe
+c:\users\rza\documents\visual studio 2017\Projects\b_ship\CrzayBattle\obj\Debug\CrzayBattle.pdb
